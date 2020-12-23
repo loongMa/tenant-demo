@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --hot --config config/webpack.dev.js"
+    "start": "webpack-dev-server --open --hot --config config/webpack.dev.js"
   },
   "author": "malong",
   "license": "ISC",
